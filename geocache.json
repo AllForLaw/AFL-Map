@@ -1,0 +1,1246 @@
+{
+"abakaliki||nigeria": [
+6.3248,
+8.1137
+],
+"agartala|tripura|india": [
+23.8361,
+91.2794
+],
+"agra|uttar pradesh|india": [
+27.1833,
+78.0167
+],
+"ahilyanagar|maharashtra|india": [
+19.093,
+74.7493
+],
+"ahmedabad|gujarat|india": [
+23.0258,
+72.5873
+],
+"ajmer|rajasthan|india": [
+26.25,
+74.6667
+],
+"akola|maharashtra|india": [
+20.5,
+77.1667
+],
+"alexandria||egypt": [
+31.2018,
+29.9158
+],
+"alice||south africa": [
+-32.7875,
+26.8344
+],
+"aligarh|uttar pradesh|india": [
+27.8333,
+78.1667
+],
+"allahabad|uttar pradesh|india": [
+25.45,
+81.85
+],
+"aluva|kerala|india": [
+10.1076,
+76.3516
+],
+"alwar|rajasthan|india": [
+27.5,
+76.5
+],
+"amaravathi|andhra pradesh|india": [
+15.6167,
+77.2537
+],
+"ambala|haryana|india": [
+30.3285,
+76.9422
+],
+"amravati|maharashtra|india": [
+20.9333,
+77.75
+],
+"amritsar|punjab|india": [
+31.67,
+74.84
+],
+"anantnag|jammu & kashmir|india": [
+33.7307,
+75.1542
+],
+"andhra pradesh|andhra pradesh|india": [
+16.074,
+80.5888
+],
+"arunachal pradesh|arunanchal pradesh|india": [
+27.7877,
+94.6943
+],
+"assam|assam|india": [
+26.3932,
+92.759
+],
+"atavanad|kerala|india": [
+10.5405,
+76.133
+],
+"aurangabad|maharashtra|india": [
+19.8847,
+75.3399
+],
+"avilali|andhra pradesh|india": [
+15.8935,
+80.765
+],
+"awantipora|jammu & kashmir|india": [
+33.9189,
+75.0147
+],
+"baddi|himachal pradesh|india": [
+30.9578,
+76.7914
+],
+"bahadurgarh|haryana|india": [
+28.6929,
+76.9356
+],
+"bahawalpur||pakistan": [
+29.3978,
+71.6752
+],
+"banda|uttar pradesh|india": [
+25.5,
+80.5
+],
+"bandipora|jammu & kashmir|india": [
+34.4232,
+74.636
+],
+"bangladesh||bangladesh": [
+22.9705,
+90.3785
+],
+"baramulla|jammu & kashmir|india": [
+34.2087,
+74.3435
+],
+"baran|rajasthan|india": [
+25.09,
+76.66
+],
+"barasat|madhya pradesh|india": [
+22.7191,
+88.4826
+],
+"barasat|west bengal|india": [
+22.2333,
+88.45
+],
+"bardhaman|west bengal|india": [
+23.25,
+87.85
+],
+"bareilly|uttar pradesh|india": [
+28.4167,
+79.3833
+],
+"baripada|odisha|india": [
+21.9342,
+86.7309
+],
+"belagavi|karnataka|india": [
+16.3333,
+74.75
+],
+"bengaluru|karnataka|india": [
+12.9719,
+77.5937
+],
+"bhaktapur||nepal": [
+27.6774,
+85.4039
+],
+"bhind|madhya pradesh|india": [
+26.5,
+78.75
+],
+"bhitarwar|madhya pradesh|india": [
+25.7922,
+78.1108
+],
+"bhopal|madhya pradesh|india": [
+23.2547,
+77.4029
+],
+"bhubaneswar|odisha|india": [
+20.2724,
+85.8338
+],
+"bihar|bihar|india": [
+25.6872,
+85.6613
+],
+"bikaner|rajasthan|india": [
+28.0176,
+73.3149
+],
+"bilaspur|chhattisgarh|india": [
+22.3833,
+82.1333
+],
+"bokaro|jharkhand|india": [
+23.6856,
+85.9903
+],
+"budgam|jammu & kashmir|india": [
+34.688,
+76.43
+],
+"bulandshahr|uttar pradesh|india": [
+28.4167,
+77.8333
+],
+"calicut|kerala|india": [
+11.2451,
+75.7755
+],
+"cameroon||cameroon": [
+6,
+12
+],
+"chandigarh|chandigarh|india": [
+30.7363,
+76.7884
+],
+"chennai|tamil nadu|india": [
+13.0878,
+80.2785
+],
+"chhatarpur|madhya pradesh|india": [
+24.75,
+79.75
+],
+"chhindwara|madhya pradesh|india": [
+22.057,
+78.9396
+],
+"chinchwad|maharashtra|india": [
+16.7044,
+74.3178
+],
+"chittagong||bangladesh": [
+22.4875,
+91.9633
+],
+"chuka||kenya": [
+-0.3332,
+37.6459
+],
+"coimbatore|tamil nadu|india": [
+10.8,
+77.09
+],
+"colombo||sri lanka": [
+6.9355,
+79.8487
+],
+"consua|goa|india": [
+15.3083,
+73.9099
+],
+"cooch behar|west bengal|india": [
+26.3167,
+89.4333
+],
+"cuttack|odisha|india": [
+20.5,
+86.25
+],
+"dabra|madhya pradesh|india": [
+25.8857,
+78.3322
+],
+"dakshina kannada|karnataka|india": [
+12.84,
+75.29
+],
+"datia|madhya pradesh|india": [
+25.75,
+78.5
+],
+"dehradun|uttarakhand|india": [
+30.33,
+78.06
+],
+"delhi|nct of delhi|india": [
+28.6519,
+77.2315
+],
+"deoghar|madhya pradesh|india": [
+24.4898,
+86.699
+],
+"dewas|madhya pradesh|india": [
+23,
+76.1667
+],
+"dhaka||bangladesh": [
+23.7842,
+89.9286
+],
+"dhamtari|chhattisgarh|india": [
+20.7072,
+81.5487
+],
+"dharamshala|himachal pradesh|india": [
+32.2143,
+76.3197
+],
+"dharwad|karnataka|india": [
+15.37,
+75.14
+],
+"dhar|madhya pradesh|india": [
+22.5937,
+75.2977
+],
+"dhule|maharashtra|india": [
+21.0685,
+74.5884
+],
+"dublin||ireland": [
+53.3331,
+-6.2489
+],
+"durg|chhattisgarh|india": [
+21.15,
+81.4
+],
+"durham||united kingdom": [
+54.7768,
+-1.5757
+],
+"east london||south africa": [
+-33.0153,
+27.9116
+],
+"east london||united kingdom": [
+51.5478,
+-0.0097
+],
+"edinburgh||united kingdom": [
+55.9521,
+-3.1965
+],
+"ernakulam|kerala|india": [
+10,
+76.5
+],
+"ethiopia||south africa": [
+-28.455,
+24.5875
+],
+"faizabad|uttar pradesh|india": [
+26.75,
+82
+],
+"faridabad|haryana|india": [
+28.4112,
+77.3132
+],
+"faridkot|punjab|india": [
+30.674,
+74.7558
+],
+"fazilka|punjab|india": [
+30.4021,
+74.0284
+],
+"firozabad|gujarat|india": [
+27.1528,
+78.3991
+],
+"firozabad|uttar pradesh|india": [
+27.2007,
+78.4287
+],
+"ganderbal|jammu & kashmir|india": [
+34.2947,
+75.2
+],
+"gandhinagar|gujarat|india": [
+23.2167,
+72.6833
+],
+"garhwal|uttarakhand|india": [
+29.9637,
+78.9285
+],
+"gaya|bihar|india": [
+24.7969,
+85.0038
+],
+"ghaziabad|uttar pradesh|india": [
+28.6654,
+77.4391
+],
+"goa, india|goa|india": [
+15.348,
+74.006
+],
+"goa|goa|india": [
+15.4309,
+73.9202
+],
+"gohad|madhya pradesh|india": [
+26.4106,
+78.4457
+],
+"gorakhpur|uttar pradesh|india": [
+26.9167,
+83.25
+],
+"greater noida|uttar pradesh|india": [
+28.4962,
+77.536
+],
+"guhawati|assam|india": [
+26.053,
+92.866
+],
+"gujarat|gujarat|india": [
+22.3389,
+71.9859
+],
+"guna|madhya pradesh|india": [
+24.5546,
+77.2008
+],
+"gurugram|haryana|india": [
+28.4389,
+77.0059
+],
+"gurugram|uttar pradesh|india": [
+28.4646,
+77.0299
+],
+"guwahati|assam|india": [
+26.1844,
+91.7458
+],
+"gwalior|madhya pradesh|india": [
+26.2298,
+78.1734
+],
+"haldia|west bengal|india": [
+22.0605,
+88.1098
+],
+"hanumangarh|rajasthan|india": [
+29.11,
+74.6
+],
+"haryana|haryana|india": [
+29.2069,
+76.5101
+],
+"hathras|madhya pradesh|india": [
+27.5976,
+78.0545
+],
+"hathras|uttar pradesh|india": [
+27.5955,
+78.052
+],
+"hazaribag|jharkhand|india": [
+24,
+85.25
+],
+"hazaribag|nct of delhi|india": [
+23.9924,
+85.3616
+],
+"himachal pradesh|himachal pradesh|india": [
+31.5742,
+76.8684
+],
+"hoshiarpur|punjab|india": [
+31.5372,
+75.9127
+],
+"howrah|west bengal|india": [
+22.5769,
+88.3186
+],
+"hubbali|karnataka|india": [
+15.0165,
+76.334
+],
+"hubballi|karnataka|india": [
+15.3478,
+75.1338
+],
+"hubli|karnataka|india": [
+15.3518,
+75.138
+],
+"hyderabad|telangana|india": [
+17.384,
+78.4564
+],
+"ibadan||nigeria": [
+7.3776,
+3.9059
+],
+"imphal|manipur|india": [
+24.7991,
+93.9364
+],
+"indonesia||indonesia": [
+-5,
+120
+],
+"indore|madhya pradesh|india": [
+22.6667,
+75.75
+],
+"islamabad||pakistan": [
+33.7215,
+73.0433
+],
+"itarsi|madhya pradesh|india": [
+22.6148,
+77.7622
+],
+"jaat|haryana|india": [
+29.289,
+76.04
+],
+"jabalpur|madhya pradesh|india": [
+23.16,
+79.95
+],
+"jaipur|rajasthan|india": [
+27,
+76
+],
+"jalandhar|punjab|india": [
+31.4167,
+75.6167
+],
+"jalesar(etah)|uttar pradesh|india": [
+27.1385,
+80.8655
+],
+"jalgaon|maharashtra|india": [
+21.0029,
+75.566
+],
+"jammu|jammu & kashmir|india": [
+32.75,
+74.8333
+],
+"jamshedpur|jharkhand|india": [
+22.8028,
+86.1855
+],
+"jamshoro||pakistan": [
+25.4361,
+68.2802
+],
+"jaunpur|uttar pradesh|india": [
+25.75,
+82.75
+],
+"jhalandhar|punjab|india": [
+31.0625,
+75.4125
+],
+"jhansi|uttar pradesh|india": [
+25.5,
+78.5
+],
+"jhunjhunu|rajasthan|india": [
+28.1288,
+75.3993
+],
+"jodhpur|rajasthan|india": [
+26.75,
+72.75
+],
+"johannesburg||south africa": [
+-26.2023,
+28.0436
+],
+"jote|arunanchal pradesh|india": [
+27.0421,
+93.4637
+],
+"kadapa|andhra pradesh|india": [
+14.4753,
+78.8217
+],
+"kalaburagi|karnataka|india": [
+17.331,
+76.8334
+],
+"kalghatagi|karnataka|india": [
+15.0165,
+76.334
+],
+"kalyani|west bengal|india": [
+22.975,
+88.4344
+],
+"kampala||uganda": [
+0.3163,
+32.5822
+],
+"kannur|kerala|india": [
+12.1667,
+75.3333
+],
+"kanpur|uttar pradesh|india": [
+26.4652,
+80.3498
+],
+"karachi||pakistan": [
+24.8608,
+67.0104
+],
+"karnataka|karnataka|india": [
+14.4149,
+76.0793
+],
+"kashipur|uttarakhand|india": [
+29.214,
+78.9569
+],
+"kashmir|jammu & kashmir|india": [
+26.2644,
+71.6027
+],
+"kashmir|rajasthan|india": [
+26.2644,
+71.6027
+],
+"kattankulathur|tamil nadu|india": [
+10.821,
+78.2895
+],
+"keffi||nigeria": [
+8.8465,
+7.8735
+],
+"kerala|kerala|india": [
+10.3937,
+76.2446
+],
+"khanpur kalan|haryana|india": [
+29.1608,
+76.7915
+],
+"kharagpur|west bengal|india": [
+22.3302,
+87.3237
+],
+"kochi|kerala|india": [
+9.9679,
+76.2444
+],
+"kodungallur|kerala|india": [
+10.2326,
+76.1951
+],
+"kokrajhar|assam|india": [
+26.6,
+90.2
+],
+"kolhapur|maharashtra|india": [
+16.6901,
+74.2298
+],
+"kolkata|nct of delhi|india": [
+22.5726,
+88.3639
+],
+"kolkata|odisha|india": [
+22.5726,
+88.3639
+],
+"kolkata|west bengal|india": [
+22.5411,
+88.3378
+],
+"kollam|kerala|india": [
+8.8811,
+76.5847
+],
+"kota|rajasthan|india": [
+25.1751,
+75.8441
+],
+"kottayam|kerala|india": [
+9.6667,
+76.6667
+],
+"kotulpur|west bengal|india": [
+23.0112,
+87.5961
+],
+"kozhikode|kerala|india": [
+11.5,
+76
+],
+"kulgam|jammu & kashmir|india": [
+33.6446,
+75.0192
+],
+"kurukshetra|haryana|india": [
+30,
+76.75
+],
+"lahore||pakistan": [
+31.558,
+74.3507
+],
+"lesotho||south africa": [
+-28.455,
+24.5875
+],
+"london||united kingdom": [
+51.5085,
+-0.1257
+],
+"lucknow|uttar pradesh|india": [
+26.8393,
+80.9231
+],
+"ludhiana|punjab|india": [
+30.912,
+75.8538
+],
+"madgoan|goa|india": [
+21.7288,
+75.1119
+],
+"madhya pradesh|madhya pradesh|india": [
+23.6609,
+78.0144
+],
+"madurai|tamil nadu|india": [
+9.89,
+78.03
+],
+"mahabalipuram|tamil nadu|india": [
+12.6196,
+80.1936
+],
+"maharashtra|maharashtra|india": [
+19.1854,
+75.2904
+],
+"malappuram|kerala|india": [
+11,
+76.1667
+],
+"maluku||indonesia": [
+-1.936,
+119.2595
+],
+"mangalore|karnataka|india": [
+12.8698,
+74.843
+],
+"mangaluru|karnataka|india": [
+12.9172,
+74.856
+],
+"manipur|manipur|india": [
+24.6536,
+93.8943
+],
+"mathura|uttar pradesh|india": [
+27.6333,
+77.5833
+],
+"meerut|uttar pradesh|india": [
+28.9167,
+77.6833
+],
+"mohali|punjab|india": [
+30.68,
+76.7221
+],
+"mohanpur|jharkhand|india": [
+24.5102,
+86.816
+],
+"mohanpur|uttar pradesh|india": [
+28.2526,
+80.245
+],
+"moradabad|uttar pradesh|india": [
+28.8525,
+78.797
+],
+"morena|madhya pradesh|india": [
+26.1667,
+77.5
+],
+"motihari|bihar|india": [
+26.6507,
+84.9115
+],
+"mullana|haryana|india": [
+30.275,
+77.0484
+],
+"mumbai|maharashtra|india": [
+19.0728,
+72.8826
+],
+"murshidabad|west bengal|india": [
+24.18,
+88.27
+],
+"muzaffarpur|bihar|india": [
+26.1667,
+85.4167
+],
+"muzzafarpur|bihar|india": [
+25.904,
+85.812
+],
+"mysore|karnataka|india": [
+12.3052,
+76.6554
+],
+"mysuru|karnataka|india": [
+12.23,
+76.42
+],
+"nagina|uttar pradesh|india": [
+29.4443,
+78.4365
+],
+"nagpur|maharashtra|india": [
+21.1463,
+79.0849
+],
+"nanded|maharashtra|india": [
+18.9167,
+77.5
+],
+"nandurbar|maharashtra|india": [
+21.37,
+74.2
+],
+"narayanaguda|telangana|india": [
+17.3981,
+78.4885
+],
+"narela|nct of delhi|india": [
+28.8527,
+77.0929
+],
+"narodara rural|rajasthan|india": [
+26.628,
+73.877
+],
+"nashik|maharashtra|india": [
+19.9973,
+73.791
+],
+"navi mumbai|maharashtra|india": [
+19.0368,
+73.0158
+],
+"nawada|bihar|india": [
+24.75,
+85.5
+],
+"new delhi|nct of delhi|india": [
+28.6358,
+77.2245
+],
+"nichlaul|uttar pradesh|india": [
+27.3125,
+83.7253
+],
+"niwari|madhya pradesh|india": [
+24.1113,
+81.3192
+],
+"niwari|uttar pradesh|india": [
+28.8761,
+77.5382
+],
+"noida|uttar pradesh|india": [
+28.58,
+77.33
+],
+"nowgong|assam|india": [
+25.0463,
+79.4583
+],
+"odisha|odisha|india": [
+20.5377,
+84.7651
+],
+"oku||cameroon": [
+6.2484,
+10.5058
+],
+"osmanabad|maharashtra|india": [
+18.25,
+76.1667
+],
+"palei|rajasthan|india": [
+26.3982,
+75.9085
+],
+"pallakad|kerala|india": [
+10.5405,
+76.133
+],
+"panaji|goa|india": [
+15.4957,
+73.8262
+],
+"panchkula|gujarat|india": [
+30.6975,
+76.8551
+],
+"panchkula|haryana|india": [
+30.7288,
+76.9472
+],
+"panchkula|himachal pradesh|india": [
+30.6975,
+76.8551
+],
+"panipat|haryana|india": [
+29.3326,
+76.9263
+],
+"panjim|goa|india": [
+15.499,
+73.8282
+],
+"patiala|punjab|india": [
+30.3362,
+76.3922
+],
+"patna|bihar|india": [
+25.4167,
+85.1667
+],
+"pauri|uttarakhand|india": [
+30.1529,
+78.7771
+],
+"phagwara|punjab|india": [
+31.2245,
+75.7739
+],
+"pondicherry|puducherry|india": [
+11.9341,
+79.8306
+],
+"porbandar|gujarat|india": [
+21.6422,
+69.6093
+],
+"prayagraj|uttar pradesh|india": [
+25.4381,
+81.8338
+],
+"puducherry|puducherry|india": [
+11.9338,
+79.8298
+],
+"pudupakkam|tamil nadu|india": [
+12.8098,
+80.2023
+],
+"pulwama|jammu & kashmir|india": [
+33.874,
+74.8996
+],
+"pune|maharashtra|india": [
+18.5196,
+73.8554
+],
+"puri|odisha|india": [
+19.9,
+85.6
+],
+"raipur|chhattisgarh|india": [
+21.2562,
+81.6902
+],
+"rajasthan|rajasthan|india": [
+26.4762,
+74.9733
+],
+"rajkot|gujarat|india": [
+22.3333,
+70.8333
+],
+"rajpura|punjab|india": [
+30.4786,
+76.5928
+],
+"rajshahi||bangladesh": [
+24.4207,
+88.296
+],
+"rampur|himachal pradesh|india": [
+31.4494,
+77.6309
+],
+"rampur|nct of delhi|india": [
+28.8014,
+79.0284
+],
+"ranchi|jharkhand|india": [
+23.3432,
+85.3094
+],
+"ratlam|madhya pradesh|india": [
+23.3303,
+75.0403
+],
+"rohtak|haryana|india": [
+28.8333,
+76.6667
+],
+"rohtas|bihar|india": [
+24.9794,
+84.0277
+],
+"roorkee|uttarakhand|india": [
+29.8663,
+77.8912
+],
+"sabarmati|gujarat|india": [
+23.084,
+72.5876
+],
+"sagar|madhya pradesh|india": [
+23.75,
+78.75
+],
+"sahibabad|uttar pradesh|india": [
+28.6833,
+77.4
+],
+"salem|tamil nadu|india": [
+11.6537,
+77.9982
+],
+"sambalpur|odisha|india": [
+21.4,
+83.8833
+],
+"samkona|odisha|india": [
+27.0094,
+88.2931
+],
+"sandton||south africa": [
+-26.0682,
+28.048
+],
+"sangli|maharashtra|india": [
+17.112,
+74.7699
+],
+"satara|maharashtra|india": [
+17.6859,
+73.9933
+],
+"satna|madhya pradesh|india": [
+24.5,
+81
+],
+"sehore|madhya pradesh|india": [
+23.2,
+77.0833
+],
+"seoni|madhya pradesh|india": [
+22.085,
+79.5504
+],
+"shillong|meghalaya|india": [
+25.5689,
+91.8831
+],
+"shimla|himachal pradesh|india": [
+31.1667,
+77.5833
+],
+"shivpuri|madhya pradesh|india": [
+25.4238,
+77.6622
+],
+"sikar|rajasthan|india": [
+27.6121,
+75.14
+],
+"silchar|assam|india": [
+24.8273,
+92.7979
+],
+"siliguri|west bengal|india": [
+26.71,
+88.4285
+],
+"solan|himachal pradesh|india": [
+31.0833,
+76.8333
+],
+"solapur|maharashtra|india": [
+17.75,
+75.5
+],
+"somalia||somalia": [
+10,
+49
+],
+"sonepat|haryana|india": [
+29.289,
+76.04
+],
+"sonipat|haryana|india": [
+29,
+76.9167
+],
+"south africa||south africa": [
+-29,
+24
+],
+"srinagar|jammu & kashmir|india": [
+34.0857,
+74.8055
+],
+"sudhowala|uttarakhand|india": [
+30.089,
+79.3095
+],
+"surat|gujarat|india": [
+21.178,
+72.8119
+],
+"tamil nadu|tamil nadu|india": [
+11.0268,
+78.5557
+],
+"telangana|telangana|india": [
+17.8708,
+78.9114
+],
+"thane|maharashtra|india": [
+19.3333,
+73.25
+],
+"thanjavur|tamil nadu|india": [
+10.64,
+79.22
+],
+"thiruvananthapuram|kerala|india": [
+8.604,
+76.9857
+],
+"tindola|uttar pradesh|india": [
+27.1385,
+80.8655
+],
+"tiruchirappalli|tamil nadu|india": [
+10.97,
+78.65
+],
+"tirupati|andhra pradesh|india": [
+13.6355,
+79.4199
+],
+"tonk|rajasthan|india": [
+26.1667,
+75.5833
+],
+"tumakuru|karnataka|india": [
+13.5,
+77
+],
+"tumkur|karnataka|india": [
+13.3401,
+77.1006
+],
+"udaipur|rajasthan|india": [
+24.33,
+73.77
+],
+"udupi|karnataka|india": [
+13.5,
+74.87
+],
+"ujjain|madhya pradesh|india": [
+23.4167,
+75.5
+],
+"ulhasnagar|maharashtra|india": [
+19.2167,
+73.15
+],
+"una|himachal pradesh|india": [
+31.4649,
+76.2691
+],
+"uttar pradesh|uttar pradesh|india": [
+27.2103,
+80.0821
+],
+"uttarakhand|uttarakhand|india": [
+29.851,
+78.917
+],
+"vadodara|gujarat|india": [
+22.2994,
+73.2081
+],
+"vanasthali|rajasthan|india": [
+26.4063,
+75.8601
+],
+"varanasi|uttar pradesh|india": [
+25.3167,
+83.0104
+],
+"vellore|tamil nadu|india": [
+12.86,
+79.035
+],
+"vijaywada|maharashtra|india": [
+18.818,
+76.7715
+],
+"villupuram|tamil nadu|india": [
+11.99,
+79.37
+],
+"visakhapatnam|andhra pradesh|india": [
+17.6801,
+83.2016
+],
+"vizag|andhra pradesh|india": [
+17.6936,
+83.2921
+],
+"west bengal|west bengal|india": [
+23.5167,
+88.045
+]
+}

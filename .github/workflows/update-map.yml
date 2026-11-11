@@ -1,0 +1,29 @@
+name: Update map from sheet
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # GitHub may run this a few minutes late
+  workflow_dispatch:          # "Run workflow" button for an instant refresh
+
+permissions:
+  contents: write
+
+concurrency: update-map
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python update_map.py
+        env:
+          SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
+      - name: Commit if the data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898273+github-actions[bot]@users.noreply.github.com"
+          git add index.html geocache.json
+          git diff --cached --quiet || (git commit -m "Update map data from sheet" && git push)
